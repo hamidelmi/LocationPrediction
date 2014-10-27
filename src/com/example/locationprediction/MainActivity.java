@@ -1,7 +1,10 @@
 package com.example.locationprediction;
 
+import com.example.locationprediction.service.LocationManagerService;
+
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
@@ -14,6 +17,7 @@ public class MainActivity extends Activity {
 	private Button startTrackingButton, stopTrackingButton;
 	private TextView statusTextView;
 
+	private Intent locationService;
 	private LocationManager locationManager;
 	private LocationListener locationListener;
 
@@ -39,13 +43,18 @@ public class MainActivity extends Activity {
 				startTrackingButton.setEnabled(false);
 				stopTrackingButton.setEnabled(true);
 
-				try {
-					locationManager.requestLocationUpdates(
-							LocationManager.NETWORK_PROVIDER, 1000, 0,
-							locationListener);
-				} catch (Exception ex) {
-					Log.d("t", ex.getMessage());
-				}
+				locationService = new Intent(getApplicationContext(),
+						LocationManagerService.class);
+
+				startService(locationService);
+
+				// try {
+				// locationManager.requestLocationUpdates(
+				// LocationManager.NETWORK_PROVIDER, 1000, 0,
+				// locationListener);
+				// } catch (Exception ex) {
+				// Log.d("t", ex.getMessage());
+				// }
 			}
 		});
 
@@ -56,6 +65,8 @@ public class MainActivity extends Activity {
 				statusTextView.setText("...");
 				startTrackingButton.setEnabled(true);
 				stopTrackingButton.setEnabled(false);
+
+				startService(locationService);
 
 				// locationManager.removeUpdates(locationListener);
 
