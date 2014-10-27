@@ -68,7 +68,7 @@ public class MainActivity extends Activity {
 				// provider.
 				// makeUseOfNewLocation(location);
 
-				statusTextView.setText(String.format("(%1$,.2f,%1$,.2f)",
+				statusTextView.setText(String.format("(%1$,.3f,%1$,.3f)",
 						location.getLongitude(), location.getLatitude()));
 
 			}
