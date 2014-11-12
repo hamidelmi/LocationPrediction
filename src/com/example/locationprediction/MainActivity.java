@@ -21,6 +21,7 @@ public class MainActivity extends Activity {
 	private LocationManager locationManager;
 	private LocationListener locationListener;
 
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
