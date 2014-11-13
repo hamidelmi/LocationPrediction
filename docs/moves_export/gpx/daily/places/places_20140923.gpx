@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:59.517Z</time>
+  </metadata>
+  <wpt lon="8.6682008619" lat="49.8829100725">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6702592175" lat="49.8819996044">
+    <name>Home</name>
+    <type>Home</type>
+  </wpt>
+  <wpt lon="8.6605648722" lat="49.8742715717">
+    <name>KOM Lab</name>
+    <type>Work</type>
+  </wpt>
+  <wpt lon="8.6688546976" lat="49.8826852249">
+    <name>Place in Studentenwohnheim Karlshof</name>
+  </wpt>
+  <wpt lon="8.6568254738" lat="49.8763206317">
+    <name>Place in TU Darmstadt / S1</name>
+  </wpt>
+  <trk>
+    <name>9/23/14</name>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-09-23T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-09-23T00:51:03.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T00:54:04.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T10:07:03.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6605648722" lat="49.8742715717">
+        <time>2014-09-23T10:12:44.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6605648722" lat="49.8742715717">
+        <time>2014-09-23T10:49:13.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T10:55:23.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T14:40:08.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6688546976" lat="49.8826852249">
+        <time>2014-09-23T14:42:51.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6688546976" lat="49.8826852249">
+        <time>2014-09-23T14:58:49.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T15:02:17.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T15:24:31.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6688546976" lat="49.8826852249">
+        <time>2014-09-23T15:27:12.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6688546976" lat="49.8826852249">
+        <time>2014-09-23T15:39:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T15:42:39.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T18:55:11.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6568254738" lat="49.8763206317">
+        <time>2014-09-23T19:15:54.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6568254738" lat="49.8763206317">
+        <time>2014-09-23T21:33:54.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-23T22:00:21.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-24T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

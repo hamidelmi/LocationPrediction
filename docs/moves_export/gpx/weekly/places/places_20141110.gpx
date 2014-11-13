@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:51.696Z</time>
+  </metadata>
+  <wpt lon="8.6702592175" lat="49.8819996044">
+    <name>Home</name>
+    <type>Home</type>
+  </wpt>
+  <wpt lon="8.654577692" lat="49.877662904">
+    <name>Place in TU Darmstadt / S2</name>
+  </wpt>
+  <trk>
+    <name>11/10/14</name>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-10T00:00:00.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-10T11:22:06.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.654577692" lat="49.877662904">
+        <time>2014-11-10T11:38:51.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.654577692" lat="49.877662904">
+        <time>2014-11-10T12:57:29.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-10T13:19:05.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-10T14:59:06.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

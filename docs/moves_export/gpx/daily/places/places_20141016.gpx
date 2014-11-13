@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:00.025Z</time>
+  </metadata>
+  <wpt lon="8.6702592175" lat="49.8819996044">
+    <name>Home</name>
+    <type>Home</type>
+  </wpt>
+  <wpt lon="8.665967" lat="49.882194">
+    <name>H Karlshof</name>
+    <link href="http://foursquare.com/venue/4d31931eb60937045413eddf"/>
+  </wpt>
+  <wpt lon="8.6460660919" lat="49.8659872343">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6568254738" lat="49.8763206317">
+    <name>Place in TU Darmstadt / S1</name>
+  </wpt>
+  <wpt lon="8.654577692" lat="49.877662904">
+    <name>Place in TU Darmstadt / S2</name>
+  </wpt>
+  <wpt lon="8.6540199876" lat="49.873520488">
+    <name>Place in Friedensplatz</name>
+  </wpt>
+  <wpt lon="8.677832634" lat="49.8955261459">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6697840805" lat="49.8831093675">
+    <name>Place in Studentenwohnheim Karlshof</name>
+  </wpt>
+  <trk>
+    <name>10/16/14</name>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-10-16T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-10-16T07:27:19.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.665967" lat="49.882194">
+        <time>2014-10-16T07:32:54.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.665967" lat="49.882194">
+        <time>2014-10-16T07:39:43.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6460660919" lat="49.8659872343">
+        <time>2014-10-16T08:11:24.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6460660919" lat="49.8659872343">
+        <time>2014-10-16T08:40:42.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6568254738" lat="49.8763206317">
+        <time>2014-10-16T09:01:20.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6568254738" lat="49.8763206317">
+        <time>2014-10-16T09:10:33.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.654577692" lat="49.877662904">
+        <time>2014-10-16T09:14:14.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.654577692" lat="49.877662904">
+        <time>2014-10-16T11:36:57.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6540199876" lat="49.873520488">
+        <time>2014-10-16T11:46:38.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6540199876" lat="49.873520488">
+        <time>2014-10-16T12:25:44.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-10-16T15:42:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-10-16T18:39:52.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.677832634" lat="49.8955261459">
+        <time>2014-10-16T18:50:56.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.677832634" lat="49.8955261459">
+        <time>2014-10-16T19:17:32.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-10-16T19:30:34.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-10-16T21:48:41.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6697840805" lat="49.8831093675">
+        <time>2014-10-16T21:54:16.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6697840805" lat="49.8831093675">
+        <time>2014-10-16T23:29:27.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-10-16T23:31:46.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-10-17T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

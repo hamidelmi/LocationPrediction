@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:59.281Z</time>
+  </metadata>
+  <trk>
+    <name>7/15/14</name>
+    <trkseg>
+      <trkpt lon="8.6682221288" lat="49.8821137398">
+        <time>2014-07-15T08:36:23.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.665798102" lat="49.8823151538">
+        <time>2014-07-15T08:36:39.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6658488512" lat="49.8823365866">
+        <time>2014-07-15T08:36:59.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6658516938" lat="49.8823351425">
+        <time>2014-07-15T08:37:14.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6602449841" lat="49.8782019794">
+        <time>2014-07-15T08:41:29.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.659559775" lat="49.8758340341">
+        <time>2014-07-15T19:29:12.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6601755235" lat="49.8757546069">
+        <time>2014-07-15T19:29:30.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6601834664" lat="49.8757544679">
+        <time>2014-07-15T19:29:55.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6601900164" lat="49.87575425">
+        <time>2014-07-15T19:30:22.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6706975681" lat="49.8794045117">
+        <time>2014-07-15T19:33:15.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

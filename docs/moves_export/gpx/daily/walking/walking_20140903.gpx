@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:01.598Z</time>
+  </metadata>
+  <trk>
+    <name>9/3/14</name>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-03T20:38:11.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702573134" lat="49.8820069365">
+        <time>2014-09-03T20:38:28.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702577129" lat="49.8820021825">
+        <time>2014-09-03T20:38:48.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702526719" lat="49.8820045805">
+        <time>2014-09-03T20:39:08.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702470398" lat="49.8820087539">
+        <time>2014-09-03T20:39:32.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702431178" lat="49.8820127262">
+        <time>2014-09-03T20:39:47.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702375178" lat="49.8820194257">
+        <time>2014-09-03T20:40:07.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702307644" lat="49.8820285123">
+        <time>2014-09-03T20:40:27.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702217092" lat="49.8820414879">
+        <time>2014-09-03T20:40:49.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702104511" lat="49.8820577437">
+        <time>2014-09-03T20:41:09.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701954943" lat="49.8820789615">
+        <time>2014-09-03T20:41:29.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701911467" lat="49.8820860206">
+        <time>2014-09-03T20:41:50.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6697840805" lat="49.8831093675">
+        <time>2014-09-03T20:42:20.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6697840805" lat="49.8831093675">
+        <time>2014-09-03T23:59:22.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6695427116" lat="49.8830389343">
+        <time>2014-09-03T23:59:42.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6695216453" lat="49.8830144298">
+        <time>2014-09-03T23:59:59.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

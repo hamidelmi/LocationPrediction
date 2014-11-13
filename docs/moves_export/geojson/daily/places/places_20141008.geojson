@@ -1,0 +1,25 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6697071135, 49.8824855756 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141007T140848+0200",
+      "endTime" : "20141009T083123+0200",
+      "place" : {
+        "id" : 260869940,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8824855756,
+          "lon" : 8.6697071135
+        }
+      },
+      "lastUpdate" : "20141009T093705Z",
+      "date" : "20141008"
+    }
+  } ]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:00.944Z</time>
+  </metadata>
+  <trk>
+    <name>9/2/14</name>
+    <trkseg>
+      <trkpt lon="8.6710590028" lat="49.8853907879">
+        <time>2014-09-02T21:15:14.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6711866398" lat="49.8855032782">
+        <time>2014-09-02T21:15:36.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.671175688" lat="49.885501022">
+        <time>2014-09-02T21:15:54.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6711697412" lat="49.8854997586">
+        <time>2014-09-02T21:16:14.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6711650543" lat="49.8854986968">
+        <time>2014-09-02T21:16:34.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6687340745" lat="49.8849193805">
+        <time>2014-09-02T21:17:05.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6682150278" lat="49.8847496687">
+        <time>2014-09-02T21:17:25.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.668069007" lat="49.8846785328">
+        <time>2014-09-02T21:17:45.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6679860851" lat="49.8845917889">
+        <time>2014-09-02T21:18:07.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6669876916" lat="49.8832230317">
+        <time>2014-09-02T21:18:34.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-09-02T21:18:57.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

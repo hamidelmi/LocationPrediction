@@ -1,0 +1,136 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140907T222934+0200",
+      "endTime" : "20140908T085850+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140908T115602Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.665967, 49.882194 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T090430+0200",
+      "endTime" : "20140908T092936+0200",
+      "place" : {
+        "id" : 251292369,
+        "name" : "H Karlshof",
+        "type" : "foursquare",
+        "foursquareId" : "4d31931eb60937045413eddf",
+        "location" : {
+          "lat" : 49.882194,
+          "lon" : 8.665967
+        }
+      },
+      "lastUpdate" : "20140908T115602Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T094810+0200",
+      "endTime" : "20140908T135834+0200",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20140908T131911Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T141815+0200",
+      "endTime" : "20140908T180202+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140908T181704Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6660192, 49.8851435948 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T180455+0200",
+      "endTime" : "20140908T202028+0200",
+      "place" : {
+        "id" : 254553224,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8851435948,
+          "lon" : 8.6660192
+        }
+      },
+      "lastUpdate" : "20140908T192606Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T202605+0200",
+      "endTime" : "20140909T082707+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140909T095700Z",
+      "date" : "20140908"
+    }
+  } ]
+}

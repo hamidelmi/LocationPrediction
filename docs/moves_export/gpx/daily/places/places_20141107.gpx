@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:01.494Z</time>
+  </metadata>
+  <wpt lon="8.6702592175" lat="49.8819996044">
+    <name>Home</name>
+    <type>Home</type>
+  </wpt>
+  <wpt lon="8.6249912643" lat="49.8712952279">
+    <name>Consetto</name>
+    <type>Work</type>
+  </wpt>
+  <wpt lon="8.654577692" lat="49.877662904">
+    <name>Place in TU Darmstadt / S2</name>
+  </wpt>
+  <wpt lon="8.6505723283" lat="49.8729068593">
+    <name>Place in Luisenplatz</name>
+  </wpt>
+  <trk>
+    <name>11/7/14</name>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-07T00:00:00.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-07T09:10:07.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6249912643" lat="49.8712952279">
+        <time>2014-11-07T09:36:14.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6249912643" lat="49.8712952279">
+        <time>2014-11-07T17:29:24.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.654577692" lat="49.877662904">
+        <time>2014-11-07T17:53:59.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.654577692" lat="49.877662904">
+        <time>2014-11-07T20:21:09.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6505723283" lat="49.8729068593">
+        <time>2014-11-07T20:33:10.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6505723283" lat="49.8729068593">
+        <time>2014-11-07T20:39:48.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-07T20:51:09.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-08T00:00:00.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

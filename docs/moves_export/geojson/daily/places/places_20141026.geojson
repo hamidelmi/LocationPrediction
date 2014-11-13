@@ -1,0 +1,71 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T190213+0200",
+      "endTime" : "20141026T185752+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141026T193908Z",
+      "date" : "20141026"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.665967, 49.882194 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141026T190415+0100",
+      "endTime" : "20141026T190743+0100",
+      "place" : {
+        "id" : 251292369,
+        "name" : "H Karlshof",
+        "type" : "foursquare",
+        "foursquareId" : "4d31931eb60937045413eddf",
+        "location" : {
+          "lat" : 49.882194,
+          "lon" : 8.665967
+        }
+      },
+      "lastUpdate" : "20141026T193908Z",
+      "date" : "20141026"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141026T191131+0100",
+      "endTime" : "20141027T083046+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141027T103439Z",
+      "date" : "20141026"
+    }
+  } ]
+}

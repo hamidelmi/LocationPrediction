@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:59.280Z</time>
+  </metadata>
+  <wpt lon="8.6675185755" lat="49.8826210232">
+    <name>Volleyball field of Karlshof</name>
+  </wpt>
+  <wpt lon="8.6697840805" lat="49.8831093675">
+    <name>Place in Studentenwohnheim Karlshof</name>
+  </wpt>
+  <wpt lon="8.6702592175" lat="49.8819996044">
+    <name>Home</name>
+    <type>Home</type>
+  </wpt>
+  <trk>
+    <name>11/1/14</name>
+    <trkseg>
+      <trkpt lon="8.6675185755" lat="49.8826210232">
+        <time>2014-11-01T00:00:00.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6675185755" lat="49.8826210232">
+        <time>2014-11-01T10:26:34.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6675185755" lat="49.8826210232">
+        <time>2014-11-01T10:26:34.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701816153" lat="49.882017944">
+        <time>2014-11-01T10:27:05.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701727777" lat="49.8820223241">
+        <time>2014-11-01T10:27:25.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701619552" lat="49.8820277742">
+        <time>2014-11-01T10:27:43.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701483968" lat="49.8820351693">
+        <time>2014-11-01T10:28:00.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701282951" lat="49.8820470181">
+        <time>2014-11-01T10:28:20.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701023087" lat="49.8820634112">
+        <time>2014-11-01T10:28:40.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6700588074" lat="49.8820929272">
+        <time>2014-11-01T10:29:02.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6695902692" lat="49.8824436093">
+        <time>2014-11-01T10:29:25.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6697840805" lat="49.8831093675">
+        <time>2014-11-01T10:29:45.000+01:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6697840805" lat="49.8831093675">
+        <time>2014-11-01T10:29:45.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6697840805" lat="49.8831093675">
+        <time>2014-11-01T16:34:58.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-01T16:34:58.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-02T00:00:00.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

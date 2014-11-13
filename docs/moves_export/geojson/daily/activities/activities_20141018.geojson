@@ -1,0 +1,48 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6702592175, 49.8819996044 ], [ 8.6708111395, 49.8829064301 ], [ 8.6709848045, 49.8831327606 ], [ 8.6711311739, 49.8833707557 ], [ 8.6716541623, 49.8842620048 ], [ 8.6720374787, 49.8848433822 ], [ 8.6710590028, 49.8853907879 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20141018T111217+0200",
+      "endTime" : "20141018T111439+0200",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20141018T111217+0200",
+        "endTime" : "20141018T111438+0200",
+        "duration" : 141.0,
+        "distance" : 499.0
+      } ],
+      "lastUpdate" : "20141018T104231Z",
+      "date" : "20141018"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6710590028, 49.8853907879 ], [ 8.6722259187, 49.8850958408 ], [ 8.6725487651, 49.8844736421 ], [ 8.6722151536, 49.8840666476 ], [ 8.671202188, 49.8832497228 ], [ 8.6710985598, 49.883140038 ], [ 8.6702592175, 49.8819996044 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20141018T112642+0200",
+      "endTime" : "20141018T112931+0200",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20141018T112642+0200",
+        "endTime" : "20141018T112931+0200",
+        "duration" : 169.0,
+        "distance" : 527.0
+      } ],
+      "lastUpdate" : "20141018T104231Z",
+      "date" : "20141018"
+    }
+  } ]
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:01.488Z</time>
+  </metadata>
+  <wpt lon="8.6702592175" lat="49.8819996044">
+    <name>Home</name>
+    <type>Home</type>
+  </wpt>
+  <wpt lon="8.654577692" lat="49.877662904">
+    <name>Place in TU Darmstadt / S2</name>
+  </wpt>
+  <wpt lon="8.6503262206" lat="49.8766118079">
+    <name>Place in Willy-Brandt-Platz</name>
+  </wpt>
+  <wpt lon="8.6428632917" lat="49.8823617392">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6471457235" lat="49.8800710534">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <trk>
+    <name>11/6/14</name>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-06T00:00:00.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-06T08:30:41.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.654577692" lat="49.877662904">
+        <time>2014-11-06T08:55:13.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.654577692" lat="49.877662904">
+        <time>2014-11-06T09:26:03.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6503262206" lat="49.8766118079">
+        <time>2014-11-06T09:32:01.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6503262206" lat="49.8766118079">
+        <time>2014-11-06T09:57:39.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6428632917" lat="49.8823617392">
+        <time>2014-11-06T10:01:42.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6428632917" lat="49.8823617392">
+        <time>2014-11-06T10:37:37.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6471457235" lat="49.8800710534">
+        <time>2014-11-06T10:56:32.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6471457235" lat="49.8800710534">
+        <time>2014-11-06T10:58:57.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-06T11:33:30.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-11-07T00:00:00.000+01:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

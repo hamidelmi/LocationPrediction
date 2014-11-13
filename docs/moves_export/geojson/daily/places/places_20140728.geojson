@@ -1,0 +1,88 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6703339401, 49.8819681239 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140727T234542+0200",
+      "endTime" : "20140728T090134+0200",
+      "place" : {
+        "id" : 222568631,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8819681239,
+          "lon" : 8.6703339401
+        }
+      },
+      "lastUpdate" : "20140728T112311Z",
+      "date" : "20140728"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.654577692, 49.877662904 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140728T091825+0200",
+      "endTime" : "20140728T175645+0200",
+      "place" : {
+        "id" : 223098012,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.877662904,
+          "lon" : 8.654577692
+        }
+      },
+      "lastUpdate" : "20140728T174346Z",
+      "date" : "20140728"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6603071569, 49.87574567 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140728T180926+0200",
+      "endTime" : "20140728T182019+0200",
+      "place" : {
+        "id" : 223218885,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.87574567,
+          "lon" : 8.6603071569
+        }
+      },
+      "lastUpdate" : "20140728T174346Z",
+      "date" : "20140728"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6682008619, 49.8829100725 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140728T182849+0200",
+      "endTime" : "20140729T082059+0200",
+      "place" : {
+        "id" : 223509887,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8829100725,
+          "lon" : 8.6682008619
+        }
+      },
+      "lastUpdate" : "20140729T081718Z",
+      "date" : "20140728"
+    }
+  } ]
+}

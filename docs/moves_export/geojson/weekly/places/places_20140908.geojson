@@ -1,0 +1,612 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140907T222934+0200",
+      "endTime" : "20140908T085850+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140908T115602Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.665967, 49.882194 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T090430+0200",
+      "endTime" : "20140908T092936+0200",
+      "place" : {
+        "id" : 251292369,
+        "name" : "H Karlshof",
+        "type" : "foursquare",
+        "foursquareId" : "4d31931eb60937045413eddf",
+        "location" : {
+          "lat" : 49.882194,
+          "lon" : 8.665967
+        }
+      },
+      "lastUpdate" : "20140908T115602Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T094810+0200",
+      "endTime" : "20140908T135834+0200",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20140908T131911Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T141815+0200",
+      "endTime" : "20140908T180202+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140908T181704Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6660192, 49.8851435948 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T180455+0200",
+      "endTime" : "20140908T202028+0200",
+      "place" : {
+        "id" : 254553224,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8851435948,
+          "lon" : 8.6660192
+        }
+      },
+      "lastUpdate" : "20140908T192606Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T202605+0200",
+      "endTime" : "20140909T082707+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140909T095700Z",
+      "date" : "20140908"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140908T202605+0200",
+      "endTime" : "20140909T082707+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140909T095700Z",
+      "date" : "20140909"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6509480091, 49.8727024501 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140909T084914+0200",
+      "endTime" : "20140909T085812+0200",
+      "place" : {
+        "id" : 226205943,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8727024501,
+          "lon" : 8.6509480091
+        }
+      },
+      "lastUpdate" : "20140909T095700Z",
+      "date" : "20140909"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140909T090720+0200",
+      "endTime" : "20140909T171506+0200",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20140909T175415Z",
+      "date" : "20140909"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6682008619, 49.8829100725 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140909T180922+0200",
+      "endTime" : "20140909T185417+0200",
+      "place" : {
+        "id" : 223509887,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8829100725,
+          "lon" : 8.6682008619
+        }
+      },
+      "lastUpdate" : "20140909T175415Z",
+      "date" : "20140909"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140909T185729+0200",
+      "endTime" : "20140910T122423+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140910T164200Z",
+      "date" : "20140909"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140909T185729+0200",
+      "endTime" : "20140910T122423+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140910T164200Z",
+      "date" : "20140910"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140910T141019+0200",
+      "endTime" : "20140910T171745+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140910T164200Z",
+      "date" : "20140910"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.677832634, 49.8955261459 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140910T173759+0200",
+      "endTime" : "20140910T181230+0200",
+      "place" : {
+        "id" : 255238542,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8955261459,
+          "lon" : 8.677832634
+        }
+      },
+      "lastUpdate" : "20140910T164200Z",
+      "date" : "20140910"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6802657045, 49.8963900521 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140910T181659+0200",
+      "endTime" : "20140910T183717+0200",
+      "place" : {
+        "id" : 255238543,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8963900521,
+          "lon" : 8.6802657045
+        }
+      },
+      "lastUpdate" : "20140910T181253Z",
+      "date" : "20140910"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140910T184728+0200",
+      "endTime" : "20140911T083054+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140911T075213Z",
+      "date" : "20140910"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140910T184728+0200",
+      "endTime" : "20140911T083054+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140911T075213Z",
+      "date" : "20140911"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140911T090314+0200",
+      "endTime" : "20140911T174845+0200",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20140911T181207Z",
+      "date" : "20140911"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6506784424, 49.8721352336 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140911T180458+0200",
+      "endTime" : "20140911T181256+0200",
+      "place" : {
+        "id" : 255635054,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8721352336,
+          "lon" : 8.6506784424
+        }
+      },
+      "lastUpdate" : "20140911T181207Z",
+      "date" : "20140911"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6532179149, 49.8707852336 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140911T181717+0200",
+      "endTime" : "20140911T183453+0200",
+      "place" : {
+        "id" : 225933586,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8707852336,
+          "lon" : 8.6532179149
+        }
+      },
+      "lastUpdate" : "20140911T181207Z",
+      "date" : "20140911"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6551462382, 49.8713664158 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140911T183842+0200",
+      "endTime" : "20140911T190401+0200",
+      "place" : {
+        "id" : 255635055,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8713664158,
+          "lon" : 8.6551462382
+        }
+      },
+      "lastUpdate" : "20140911T181207Z",
+      "date" : "20140911"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140911T192254+0200",
+      "endTime" : "20140912T015754+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140912T101312Z",
+      "date" : "20140911"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140911T192254+0200",
+      "endTime" : "20140912T015754+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140912T101312Z",
+      "date" : "20140912"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140912T104044+0200",
+      "endTime" : "20140913T142359+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140913T131140Z",
+      "date" : "20140912"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140912T104044+0200",
+      "endTime" : "20140913T142359+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140913T131140Z",
+      "date" : "20140913"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6688546976, 49.8826852249 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140913T142738+0200",
+      "endTime" : "20140913T153712+0200",
+      "place" : {
+        "id" : 229496202,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8826852249,
+          "lon" : 8.6688546976
+        }
+      },
+      "lastUpdate" : "20140913T163007Z",
+      "date" : "20140913"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140913T154026+0200",
+      "endTime" : "20140915T123916+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140915T114216Z",
+      "date" : "20140913"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140913T154026+0200",
+      "endTime" : "20140915T123916+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140915T114216Z",
+      "date" : "20140914"
+    }
+  } ]
+}

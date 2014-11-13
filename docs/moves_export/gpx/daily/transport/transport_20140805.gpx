@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:01.638Z</time>
+  </metadata>
+  <trk>
+    <name>8/5/14</name>
+    <trkseg>
+      <trkpt lon="8.6665414308" lat="49.8827700679">
+        <time>2014-08-05T08:46:14.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665166222" lat="49.8827475">
+        <time>2014-08-05T08:46:30.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665162293" lat="49.882747153">
+        <time>2014-08-05T08:46:48.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665162293" lat="49.882747153">
+        <time>2014-08-05T08:47:08.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665162293" lat="49.882747153">
+        <time>2014-08-05T08:47:38.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665163024" lat="49.8827472201">
+        <time>2014-08-05T08:47:58.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665159918" lat="49.8827469354">
+        <time>2014-08-05T08:48:18.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665157722" lat="49.8827467341">
+        <time>2014-08-05T08:48:39.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665155959" lat="49.8827465724">
+        <time>2014-08-05T08:48:59.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665154434" lat="49.8827464327">
+        <time>2014-08-05T08:49:19.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6665133864" lat="49.8827445444">
+        <time>2014-08-05T08:49:53.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6616445003" lat="49.8782755692">
+        <time>2014-08-05T08:54:44.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.661537543" lat="49.8781667467">
+        <time>2014-08-05T08:55:01.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6613942229" lat="49.8781268844">
+        <time>2014-08-05T08:55:17.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6613905717" lat="49.8771365041">
+        <time>2014-08-05T08:55:34.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6614258611" lat="49.8766753709">
+        <time>2014-08-05T08:55:51.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6614484659" lat="49.8765565953">
+        <time>2014-08-05T08:56:11.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6606411774" lat="49.8760609192">
+        <time>2014-08-05T08:56:29.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6558959052" lat="49.8730906944">
+        <time>2014-08-05T08:59:18.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6558059945" lat="49.8729291255">
+        <time>2014-08-05T08:59:41.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6554910977" lat="49.8729035669">
+        <time>2014-08-05T08:59:59.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6554909279" lat="49.8729035531">
+        <time>2014-08-05T09:00:00.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.655432286" lat="49.8728987935">
+        <time>2014-08-05T09:00:03.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6553150073" lat="49.8728458876">
+        <time>2014-08-05T09:00:24.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6551645717" lat="49.8728261689">
+        <time>2014-08-05T09:00:47.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6506495791" lat="49.8725941188">
+        <time>2014-08-05T09:01:40.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6444172638" lat="49.8718356954">
+        <time>2014-08-05T09:03:04.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6431898326" lat="49.8717547075">
+        <time>2014-08-05T09:03:20.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6311563983" lat="49.8717593348">
+        <time>2014-08-05T09:06:40.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6293275986" lat="49.872457995">
+        <time>2014-08-05T13:21:33.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6301341971" lat="49.8725317317">
+        <time>2014-08-05T13:22:03.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6317872422" lat="49.8721489411">
+        <time>2014-08-05T13:25:16.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6438597776" lat="49.8718183988">
+        <time>2014-08-05T13:28:36.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6490070374" lat="49.8726152063">
+        <time>2014-08-05T13:30:23.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6517924173" lat="49.8728156316">
+        <time>2014-08-05T13:32:03.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6547410911" lat="49.8727983737">
+        <time>2014-08-05T13:34:06.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-08-05T14:25:52.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6635272209" lat="49.8770038946">
+        <time>2014-08-05T14:30:25.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6694519047" lat="49.879974591">
+        <time>2014-08-05T14:33:04.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

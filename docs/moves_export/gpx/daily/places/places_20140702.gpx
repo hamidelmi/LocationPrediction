@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:00.631Z</time>
+  </metadata>
+  <wpt lon="8.6703339401" lat="49.8819681239">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6660203318" lat="49.8822491921">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6551163231" lat="49.8728270312">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6717798581" lat="49.8599714683">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6677592806" lat="49.8613622066">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6604081896" lat="49.8734474315">
+    <name>Place in TU Darmstadt</name>
+  </wpt>
+  <trk>
+    <name>7/2/14</name>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-02T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-02T13:58:46.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6660203318" lat="49.8822491921">
+        <time>2014-07-02T14:03:59.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6660203318" lat="49.8822491921">
+        <time>2014-07-02T14:09:55.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6551163231" lat="49.8728270312">
+        <time>2014-07-02T14:22:44.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6551163231" lat="49.8728270312">
+        <time>2014-07-02T14:27:27.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6717798581" lat="49.8599714683">
+        <time>2014-07-02T14:39:45.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6717798581" lat="49.8599714683">
+        <time>2014-07-02T16:06:03.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6677592806" lat="49.8613622066">
+        <time>2014-07-02T16:12:37.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6677592806" lat="49.8613622066">
+        <time>2014-07-02T16:18:51.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6551163231" lat="49.8728270312">
+        <time>2014-07-02T16:31:45.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6551163231" lat="49.8728270312">
+        <time>2014-07-02T16:35:22.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6604081896" lat="49.8734474315">
+        <time>2014-07-02T16:40:11.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6604081896" lat="49.8734474315">
+        <time>2014-07-02T17:17:05.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-02T17:31:01.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-03T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

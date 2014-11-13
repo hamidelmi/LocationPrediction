@@ -1,0 +1,1064 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141026T191131+0100",
+      "endTime" : "20141027T083046+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141027T103439Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6710590028, 49.8853907879 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T083921+0100",
+      "endTime" : "20141027T084311+0100",
+      "place" : {
+        "id" : 233376386,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8853907879,
+          "lon" : 8.6710590028
+        }
+      },
+      "lastUpdate" : "20141027T103439Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T084926+0100",
+      "endTime" : "20141027T104320+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141027T103439Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T110003+0100",
+      "endTime" : "20141027T113126+0100",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20141027T121041Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.656607341, 49.873462347 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T113603+0100",
+      "endTime" : "20141027T113952+0100",
+      "place" : {
+        "id" : 272589054,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.873462347,
+          "lon" : 8.656607341
+        }
+      },
+      "lastUpdate" : "20141027T121041Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.650944123, 49.8701663095 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T114734+0100",
+      "endTime" : "20141027T115943+0100",
+      "place" : {
+        "id" : 243639455,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8701663095,
+          "lon" : 8.650944123
+        }
+      },
+      "lastUpdate" : "20141027T121041Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T121407+0100",
+      "endTime" : "20141027T173148+0100",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20141027T195519Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.628248116, 49.872322656 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T173837+0100",
+      "endTime" : "20141027T174924+0100",
+      "place" : {
+        "id" : 243008096,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.872322656,
+          "lon" : 8.628248116
+        }
+      },
+      "lastUpdate" : "20141027T195519Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T181157+0100",
+      "endTime" : "20141027T194531+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141027T195519Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T194913+0100",
+      "endTime" : "20141027T224157+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141027T224539Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T224616+0100",
+      "endTime" : "20141028T084703+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141028T093548Z",
+      "date" : "20141027"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141027T224616+0100",
+      "endTime" : "20141028T084703+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141028T093548Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T090140+0100",
+      "endTime" : "20141028T093343+0100",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20141028T110516Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.657246535, 49.8756925327 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T094427+0100",
+      "endTime" : "20141028T095420+0100",
+      "place" : {
+        "id" : 272846279,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8756925327,
+          "lon" : 8.657246535
+        }
+      },
+      "lastUpdate" : "20141028T110516Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T101534+0100",
+      "endTime" : "20141028T124155+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141028T150437Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.665967, 49.882194 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T124705+0100",
+      "endTime" : "20141028T125245+0100",
+      "place" : {
+        "id" : 251292369,
+        "name" : "H Karlshof",
+        "type" : "foursquare",
+        "foursquareId" : "4d31931eb60937045413eddf",
+        "location" : {
+          "lat" : 49.882194,
+          "lon" : 8.665967
+        }
+      },
+      "lastUpdate" : "20141028T150437Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T130014+0100",
+      "endTime" : "20141028T184207+0100",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20141028T194116Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T184642+0100",
+      "endTime" : "20141028T185211+0100",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20141028T194116Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6710590028, 49.8853907879 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T190352+0100",
+      "endTime" : "20141028T190746+0100",
+      "place" : {
+        "id" : 233376386,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8853907879,
+          "lon" : 8.6710590028
+        }
+      },
+      "lastUpdate" : "20141028T194116Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T191314+0100",
+      "endTime" : "20141029T032944+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141029T103318Z",
+      "date" : "20141028"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141028T191314+0100",
+      "endTime" : "20141029T032944+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141029T103318Z",
+      "date" : "20141029"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141029T083403+0100",
+      "endTime" : "20141029T101616+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141029T103318Z",
+      "date" : "20141029"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141029T103024+0100",
+      "endTime" : "20141029T113439+0100",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20141029T120448Z",
+      "date" : "20141029"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6568254738, 49.8763206317 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141029T114251+0100",
+      "endTime" : "20141029T132141+0100",
+      "place" : {
+        "id" : 223174315,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8763206317,
+          "lon" : 8.6568254738
+        }
+      },
+      "lastUpdate" : "20141029T133622Z",
+      "date" : "20141029"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6540199876, 49.873520488 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141029T133321+0100",
+      "endTime" : "20141029T135921+0100",
+      "place" : {
+        "id" : 227596613,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.873520488,
+          "lon" : 8.6540199876
+        }
+      },
+      "lastUpdate" : "20141029T133622Z",
+      "date" : "20141029"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141029T141253+0100",
+      "endTime" : "20141029T170923+0100",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20141029T181133Z",
+      "date" : "20141029"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6682008619, 49.8829100725 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141029T174852+0100",
+      "endTime" : "20141029T190846+0100",
+      "place" : {
+        "id" : 223509887,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8829100725,
+          "lon" : 8.6682008619
+        }
+      },
+      "lastUpdate" : "20141029T194004Z",
+      "date" : "20141029"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6682008619, 49.8829100725 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141029T191059+0100",
+      "endTime" : "20141030T083506+0100",
+      "place" : {
+        "id" : 223509887,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8829100725,
+          "lon" : 8.6682008619
+        }
+      },
+      "lastUpdate" : "20141030T102040Z",
+      "date" : "20141029"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6682008619, 49.8829100725 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141029T191059+0100",
+      "endTime" : "20141030T083506+0100",
+      "place" : {
+        "id" : 223509887,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8829100725,
+          "lon" : 8.6682008619
+        }
+      },
+      "lastUpdate" : "20141030T102040Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.654577692, 49.877662904 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T084627+0100",
+      "endTime" : "20141030T121106+0100",
+      "place" : {
+        "id" : 223098012,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.877662904,
+          "lon" : 8.654577692
+        }
+      },
+      "lastUpdate" : "20141030T122203Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.651053597, 49.8733102192 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T121915+0100",
+      "endTime" : "20141030T123504+0100",
+      "place" : {
+        "id" : 273491943,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8733102192,
+          "lon" : 8.651053597
+        }
+      },
+      "lastUpdate" : "20141030T135240Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6354125494, 49.8727826445 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T124121+0100",
+      "endTime" : "20141030T124622+0100",
+      "place" : {
+        "id" : 268096834,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8727826445,
+          "lon" : 8.6354125494
+        }
+      },
+      "lastUpdate" : "20141030T135240Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6353691637, 49.8707933921 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T125052+0100",
+      "endTime" : "20141030T130013+0100",
+      "place" : {
+        "id" : 273491944,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8707933921,
+          "lon" : 8.6353691637
+        }
+      },
+      "lastUpdate" : "20141030T135240Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6382454272, 49.8731107929 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T130559+0100",
+      "endTime" : "20141030T133950+0100",
+      "place" : {
+        "id" : 273517701,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8731107929,
+          "lon" : 8.6382454272
+        }
+      },
+      "lastUpdate" : "20141030T135240Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6354125494, 49.8727826445 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T134343+0100",
+      "endTime" : "20141030T145643+0100",
+      "place" : {
+        "id" : 268096834,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8727826445,
+          "lon" : 8.6354125494
+        }
+      },
+      "lastUpdate" : "20141030T161643Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6362316516, 49.870801901 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T145944+0100",
+      "endTime" : "20141030T151127+0100",
+      "place" : {
+        "id" : 273561255,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.870801901,
+          "lon" : 8.6362316516
+        }
+      },
+      "lastUpdate" : "20141030T161643Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T152316+0100",
+      "endTime" : "20141030T205601+0100",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20141030T212735Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T210639+0100",
+      "endTime" : "20141030T211348+0100",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20141030T212735Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T213129+0100",
+      "endTime" : "20141031T082943+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141031T104240Z",
+      "date" : "20141030"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141030T213129+0100",
+      "endTime" : "20141031T082943+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141031T104240Z",
+      "date" : "20141031"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.665967, 49.882194 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141031T083430+0100",
+      "endTime" : "20141031T083908+0100",
+      "place" : {
+        "id" : 251292369,
+        "name" : "H Karlshof",
+        "type" : "foursquare",
+        "foursquareId" : "4d31931eb60937045413eddf",
+        "location" : {
+          "lat" : 49.882194,
+          "lon" : 8.665967
+        }
+      },
+      "lastUpdate" : "20141031T104240Z",
+      "date" : "20141031"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6292567374, 49.8722021283 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141031T085807+0100",
+      "endTime" : "20141031T090218+0100",
+      "place" : {
+        "id" : 273789516,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8722021283,
+          "lon" : 8.6292567374
+        }
+      },
+      "lastUpdate" : "20141031T104240Z",
+      "date" : "20141031"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141031T090715+0100",
+      "endTime" : "20141031T141203+0100",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20141031T152301Z",
+      "date" : "20141031"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141031T143155+0100",
+      "endTime" : "20141031T162840+0100",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20141031T164640Z",
+      "date" : "20141031"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141031T163735+0100",
+      "endTime" : "20141101T102634+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141101T135750Z",
+      "date" : "20141031"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141031T163735+0100",
+      "endTime" : "20141101T102634+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141101T135750Z",
+      "date" : "20141101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6697840805, 49.8831093675 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141101T102945+0100",
+      "endTime" : "20141101T163458+0100",
+      "place" : {
+        "id" : 251721107,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8831093675,
+          "lon" : 8.6697840805
+        }
+      },
+      "lastUpdate" : "20141101T164820Z",
+      "date" : "20141101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141101T163458+0100",
+      "endTime" : "20141103T111800+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141103T134803Z",
+      "date" : "20141101"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141101T163458+0100",
+      "endTime" : "20141103T111800+0100",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141103T134803Z",
+      "date" : "20141102"
+    }
+  } ]
+}

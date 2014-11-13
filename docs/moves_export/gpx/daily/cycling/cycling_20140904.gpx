@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:00.725Z</time>
+  </metadata>
+  <trk>
+    <name>9/4/14</name>
+    <trkseg>
+      <trkpt lon="8.6650606275" lat="49.8814761009">
+        <time>2014-09-04T12:37:13.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6643515187" lat="49.8802356289">
+        <time>2014-09-04T12:37:43.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6642799715" lat="49.8801253844">
+        <time>2014-09-04T12:38:13.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6642219667" lat="49.8800811826">
+        <time>2014-09-04T12:38:33.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6616124168" lat="49.8789768403">
+        <time>2014-09-04T12:39:22.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+      <trkpt lon="8.6589829373" lat="49.8781716736">
+        <time>2014-09-04T12:39:43.000+02:00</time>
+        <type>cycling</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

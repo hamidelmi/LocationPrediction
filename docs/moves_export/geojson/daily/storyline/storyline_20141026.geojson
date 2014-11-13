@@ -1,0 +1,219 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T190213+0200",
+      "endTime" : "20141026T185752+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T090745+0100",
+        "endTime" : "20141026T090812+0100",
+        "duration" : 27.0,
+        "distance" : 18.0,
+        "steps" : 36
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T102830+0100",
+        "endTime" : "20141026T103016+0100",
+        "duration" : 106.0,
+        "distance" : 76.0,
+        "steps" : 151
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T120942+0100",
+        "endTime" : "20141026T121022+0100",
+        "duration" : 40.0,
+        "distance" : 22.0,
+        "steps" : 43
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T131456+0100",
+        "endTime" : "20141026T131711+0100",
+        "duration" : 135.0,
+        "distance" : 135.0,
+        "steps" : 180
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T140027+0100",
+        "endTime" : "20141026T140252+0100",
+        "duration" : 145.0,
+        "distance" : 135.0,
+        "steps" : 180
+      } ],
+      "lastUpdate" : "20141026T193908Z",
+      "date" : "20141026"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6675185755, 49.8826210232 ], [ 8.6701770822, 49.8820339821 ], [ 8.6702239242, 49.8820117226 ], [ 8.670225727, 49.8820098977 ], [ 8.670218392, 49.8820135685 ], [ 8.6702125464, 49.8820184795 ], [ 8.670208985, 49.8820215298 ], [ 8.6702089812, 49.882021533 ], [ 8.670204793, 49.88202512 ], [ 8.6701915312, 49.8820353682 ], [ 8.6700964261, 49.8820790992 ], [ 8.6694523741, 49.8823228482 ], [ 8.6689159498, 49.8825114747 ], [ 8.6685018879, 49.8826010083 ], [ 8.6680558162, 49.8826593399 ], [ 8.6671645792, 49.8827358451 ], [ 8.6665703561, 49.8826711645 ], [ 8.6662192703, 49.8825405234 ], [ 8.6660764814, 49.8823589776 ], [ 8.665967, 49.882194 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20141026T185752+0100",
+      "endTime" : "20141026T190415+0100",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T185752+0100",
+        "endTime" : "20141026T190415+0100",
+        "duration" : 383.0,
+        "distance" : 560.0,
+        "steps" : 630
+      } ],
+      "lastUpdate" : "20141026T193908Z",
+      "date" : "20141026"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.665967, 49.882194 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141026T190415+0100",
+      "endTime" : "20141026T190743+0100",
+      "place" : {
+        "id" : 251292369,
+        "name" : "H Karlshof",
+        "type" : "foursquare",
+        "foursquareId" : "4d31931eb60937045413eddf",
+        "location" : {
+          "lat" : 49.882194,
+          "lon" : 8.665967
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T190723+0100",
+        "endTime" : "20141026T190742+0100",
+        "duration" : 19.0,
+        "distance" : 13.0,
+        "steps" : 26
+      } ],
+      "lastUpdate" : "20141026T193908Z",
+      "date" : "20141026"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.665967, 49.882194 ], [ 8.6661021963, 49.8822786289 ], [ 8.6660333108, 49.882256474 ], [ 8.6661716906, 49.8823158321 ], [ 8.6664112543, 49.8823833045 ], [ 8.6667815142, 49.8824628515 ], [ 8.6671826141, 49.8825143826 ], [ 8.6678732134, 49.8825534485 ], [ 8.6682766717, 49.8825556266 ], [ 8.6686601728, 49.8825352147 ], [ 8.6689727131, 49.8825029728 ], [ 8.6675185755, 49.8826210232 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20141026T190743+0100",
+      "endTime" : "20141026T191131+0100",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T190743+0100",
+        "endTime" : "20141026T191132+0100",
+        "duration" : 229.0,
+        "distance" : 368.0,
+        "steps" : 405
+      } ],
+      "lastUpdate" : "20141026T193908Z",
+      "date" : "20141026"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141026T191131+0100",
+      "endTime" : "20141027T083046+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T191131+0100",
+        "endTime" : "20141026T191311+0100",
+        "duration" : 100.0,
+        "distance" : 87.0,
+        "steps" : 173
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T203323+0100",
+        "endTime" : "20141026T203803+0100",
+        "duration" : 280.0,
+        "distance" : 281.0,
+        "steps" : 374
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T210047+0100",
+        "endTime" : "20141026T210236+0100",
+        "duration" : 109.0,
+        "distance" : 81.0,
+        "steps" : 162
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T221046+0100",
+        "endTime" : "20141026T221100+0100",
+        "duration" : 14.0,
+        "distance" : 10.0,
+        "steps" : 19
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141026T235755+0100",
+        "endTime" : "20141026T235803+0100",
+        "duration" : 8.0,
+        "distance" : 5.0,
+        "steps" : 10
+      } ],
+      "lastUpdate" : "20141027T103439Z",
+      "date" : "20141026"
+    }
+  } ]
+}

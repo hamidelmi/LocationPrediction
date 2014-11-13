@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:01.510Z</time>
+  </metadata>
+  <wpt lon="8.6702592175" lat="49.8819996044">
+    <name>Home</name>
+    <type>Home</type>
+  </wpt>
+  <wpt lon="8.6658461348" lat="49.8854638877">
+    <name>Place in Bürgerpark Nord</name>
+  </wpt>
+  <wpt lon="8.6697071135" lat="49.8824855756">
+    <name>Place in Studentenwohnheim Karlshof</name>
+  </wpt>
+  <trk>
+    <name>9/30/14</name>
+    <trkseg>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-30T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6702592175" lat="49.8819996044">
+        <time>2014-09-30T17:26:16.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6658461348" lat="49.8854638877">
+        <time>2014-09-30T17:39:46.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6658461348" lat="49.8854638877">
+        <time>2014-09-30T19:45:15.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6697071135" lat="49.8824855756">
+        <time>2014-09-30T19:52:07.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6697071135" lat="49.8824855756">
+        <time>2014-10-01T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

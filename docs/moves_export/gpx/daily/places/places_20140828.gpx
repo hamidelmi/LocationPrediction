@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:27:01.020Z</time>
+  </metadata>
+  <wpt lon="8.6703339401" lat="49.8819681239">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6605648722" lat="49.8742715717">
+    <name>KOM Lab</name>
+    <type>Work</type>
+  </wpt>
+  <wpt lon="8.6249912643" lat="49.8712952279">
+    <name>Consetto</name>
+    <type>Work</type>
+  </wpt>
+  <wpt lon="8.6604313156" lat="49.8745376003">
+    <name>Place in TU Darmstadt</name>
+  </wpt>
+  <trk>
+    <name>8/28/14</name>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-08-28T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-08-28T08:43:57.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6605648722" lat="49.8742715717">
+        <time>2014-08-28T09:03:12.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6605648722" lat="49.8742715717">
+        <time>2014-08-28T10:06:08.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6249912643" lat="49.8712952279">
+        <time>2014-08-28T10:31:41.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6249912643" lat="49.8712952279">
+        <time>2014-08-28T13:30:42.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6604313156" lat="49.8745376003">
+        <time>2014-08-28T13:56:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6604313156" lat="49.8745376003">
+        <time>2014-08-28T14:44:09.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-08-28T14:54:08.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-08-28T18:31:42.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-08-28T18:53:46.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-08-29T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

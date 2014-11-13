@@ -1,0 +1,143 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6697071135, 49.8824855756 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140930T195207+0200",
+      "endTime" : "20141002T125249+0200",
+      "place" : {
+        "id" : 260869940,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8824855756,
+          "lon" : 8.6697071135
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T000841+0200",
+        "endTime" : "20141001T000850+0200",
+        "duration" : 9.0,
+        "distance" : 6.0,
+        "steps" : 12
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T102943+0200",
+        "endTime" : "20141001T102952+0200",
+        "duration" : 9.0,
+        "distance" : 6.0,
+        "steps" : 12
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T120900+0200",
+        "endTime" : "20141001T120910+0200",
+        "duration" : 10.0,
+        "distance" : 7.0,
+        "steps" : 13
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T133515+0200",
+        "endTime" : "20141001T133521+0200",
+        "duration" : 6.0,
+        "distance" : 4.0,
+        "steps" : 8
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T140708+0200",
+        "endTime" : "20141001T140713+0200",
+        "duration" : 5.0,
+        "distance" : 4.0,
+        "steps" : 7
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T153029+0200",
+        "endTime" : "20141001T153035+0200",
+        "duration" : 6.0,
+        "distance" : 5.0,
+        "steps" : 10
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T161104+0200",
+        "endTime" : "20141001T161126+0200",
+        "duration" : 22.0,
+        "distance" : 16.0,
+        "steps" : 31
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T172112+0200",
+        "endTime" : "20141001T172212+0200",
+        "duration" : 60.0,
+        "distance" : 35.0,
+        "steps" : 70
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T193210+0200",
+        "endTime" : "20141001T193249+0200",
+        "duration" : 39.0,
+        "distance" : 31.0,
+        "steps" : 62
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T202946+0200",
+        "endTime" : "20141001T203009+0200",
+        "duration" : 23.0,
+        "distance" : 15.0,
+        "steps" : 30
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T210214+0200",
+        "endTime" : "20141001T210252+0200",
+        "duration" : 38.0,
+        "distance" : 29.0,
+        "steps" : 58
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T220003+0200",
+        "endTime" : "20141001T220256+0200",
+        "duration" : 173.0,
+        "distance" : 177.0,
+        "steps" : 236
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141001T231553+0200",
+        "endTime" : "20141001T231642+0200",
+        "duration" : 49.0,
+        "distance" : 33.0,
+        "steps" : 66
+      } ],
+      "lastUpdate" : "20141002T120758Z",
+      "date" : "20141001"
+    }
+  } ]
+}

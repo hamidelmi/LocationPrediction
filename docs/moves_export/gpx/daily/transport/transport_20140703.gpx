@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:51.666Z</time>
+  </metadata>
+  <trk>
+    <name>7/3/14</name>
+    <trkseg>
+      <trkpt lon="8.6681786881" lat="49.8830015354">
+        <time>2014-07-03T09:49:47.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6681262865" lat="49.8829302407">
+        <time>2014-07-03T09:50:11.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6624622766" lat="49.8752784636">
+        <time>2014-07-03T09:56:02.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6624306712" lat="49.8753334674">
+        <time>2014-07-03T09:56:17.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

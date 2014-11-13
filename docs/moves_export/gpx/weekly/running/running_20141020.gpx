@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:58.915Z</time>
+  </metadata>
+  <trk>
+    <name>10/23/14</name>
+    <trkseg>
+      <trkpt lon="8.6300225935" lat="49.8696572371">
+        <time>2014-10-23T13:20:34.000+02:00</time>
+        <type>running</type>
+      </trkpt>
+      <trkpt lon="8.6320299049" lat="49.8701405556">
+        <time>2014-10-23T13:21:03.000+02:00</time>
+        <type>running</type>
+      </trkpt>
+      <trkpt lon="8.6323543681" lat="49.8702109873">
+        <time>2014-10-23T13:21:23.000+02:00</time>
+        <type>running</type>
+      </trkpt>
+      <trkpt lon="8.6333922125" lat="49.8703808684">
+        <time>2014-10-23T13:21:53.000+02:00</time>
+        <type>running</type>
+      </trkpt>
+      <trkpt lon="8.6336368976" lat="49.8704219592">
+        <time>2014-10-23T13:22:12.000+02:00</time>
+        <type>running</type>
+      </trkpt>
+      <trkpt lon="8.6340190749" lat="49.8704891397">
+        <time>2014-10-23T13:22:33.000+02:00</time>
+        <type>running</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

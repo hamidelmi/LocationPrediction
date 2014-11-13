@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:58.933Z</time>
+  </metadata>
+  <wpt lon="8.6682008619" lat="49.8829100725">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <trk>
+    <name>8/10/14</name>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T09:25:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T09:25:00.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701374615" lat="49.8820173329">
+        <time>2014-08-10T09:25:23.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.670140661" lat="49.8820149726">
+        <time>2014-08-10T09:25:39.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6688455377" lat="49.8826571452">
+        <time>2014-08-10T09:26:17.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6685112031" lat="49.8828228229">
+        <time>2014-08-10T09:26:32.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683948786" lat="49.8828803824">
+        <time>2014-08-10T09:26:48.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683402817" lat="49.8829099705">
+        <time>2014-08-10T09:27:27.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683340538" lat="49.882913335">
+        <time>2014-08-10T09:27:44.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.668321081" lat="49.8829179331">
+        <time>2014-08-10T09:28:04.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683032799" lat="49.8829246793">
+        <time>2014-08-10T09:28:37.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6682988638" lat="49.8829274096">
+        <time>2014-08-10T09:28:57.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6682994021" lat="49.8829283122">
+        <time>2014-08-10T09:29:18.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683049444" lat="49.8829261063">
+        <time>2014-08-10T09:29:38.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683216098" lat="49.8829174908">
+        <time>2014-08-10T09:29:58.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.668339632" lat="49.8829074973">
+        <time>2014-08-10T09:30:18.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T09:30:51.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T09:30:51.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T09:32:27.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T09:32:27.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.66836421" lat="49.8828954306">
+        <time>2014-08-10T09:32:43.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683408784" lat="49.8829030588">
+        <time>2014-08-10T09:33:01.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683434229" lat="49.8829025">
+        <time>2014-08-10T09:33:27.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683464229" lat="49.8829020436">
+        <time>2014-08-10T09:33:43.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683539908" lat="49.8829001084">
+        <time>2014-08-10T09:34:03.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683678926" lat="49.8828953903">
+        <time>2014-08-10T09:34:22.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683892118" lat="49.8828874349">
+        <time>2014-08-10T09:34:42.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6684131588" lat="49.8828781712">
+        <time>2014-08-10T09:34:58.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6684640622" lat="49.8828581785">
+        <time>2014-08-10T09:35:16.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6698628905" lat="49.882303471">
+        <time>2014-08-10T09:36:07.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701139758" lat="49.8821574256">
+        <time>2014-08-10T09:36:31.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701883423" lat="49.8820674701">
+        <time>2014-08-10T09:36:56.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T09:37:12.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-10T09:37:12.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-08-11T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

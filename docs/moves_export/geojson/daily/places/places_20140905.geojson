@@ -1,0 +1,156 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140904T222636+0200",
+      "endTime" : "20140905T084656+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140905T082810Z",
+      "date" : "20140905"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6605648722, 49.8742715717 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140905T090250+0200",
+      "endTime" : "20140905T102206+0200",
+      "place" : {
+        "id" : 227329234,
+        "name" : "KOM Lab",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8742715717,
+          "lon" : 8.6605648722
+        }
+      },
+      "lastUpdate" : "20140907T092402Z",
+      "date" : "20140905"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140905T104845+0200",
+      "endTime" : "20140905T121519+0200",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20140905T113456Z",
+      "date" : "20140905"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6276221598, 49.8739398551 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140905T122308+0200",
+      "endTime" : "20140905T124547+0200",
+      "place" : {
+        "id" : 253038823,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8739398551,
+          "lon" : 8.6276221598
+        }
+      },
+      "lastUpdate" : "20140905T113456Z",
+      "date" : "20140905"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6249912643, 49.8712952279 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140905T125331+0200",
+      "endTime" : "20140905T155112+0200",
+      "place" : {
+        "id" : 249718361,
+        "name" : "Consetto",
+        "type" : "work",
+        "location" : {
+          "lat" : 49.8712952279,
+          "lon" : 8.6249912643
+        }
+      },
+      "lastUpdate" : "20140905T160126Z",
+      "date" : "20140905"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6276204882, 49.8725029818 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140905T155653+0200",
+      "endTime" : "20140905T160106+0200",
+      "place" : {
+        "id" : 224851777,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8725029818,
+          "lon" : 8.6276204882
+        }
+      },
+      "lastUpdate" : "20140905T160126Z",
+      "date" : "20140905"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140905T162212+0200",
+      "endTime" : "20140906T091115+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20140906T100028Z",
+      "date" : "20140905"
+    }
+  } ]
+}

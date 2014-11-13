@@ -1,0 +1,240 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141024T235337+0200",
+      "endTime" : "20141025T111211+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141025T122131Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6710590028, 49.8853907879 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T111920+0200",
+      "endTime" : "20141025T114251+0200",
+      "place" : {
+        "id" : 233376386,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8853907879,
+          "lon" : 8.6710590028
+        }
+      },
+      "lastUpdate" : "20141025T122131Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T114939+0200",
+      "endTime" : "20141025T115958+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141025T122131Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T115958+0200",
+      "endTime" : "20141025T143824+0200",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141025T133556Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6702592175, 49.8819996044 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T144230+0200",
+      "endTime" : "20141025T152842+0200",
+      "place" : {
+        "id" : 251291724,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 49.8819996044,
+          "lon" : 8.6702592175
+        }
+      },
+      "lastUpdate" : "20141025T141114Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.650944123, 49.8701663095 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T155459+0200",
+      "endTime" : "20141025T163841+0200",
+      "place" : {
+        "id" : 243639455,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8701663095,
+          "lon" : 8.650944123
+        }
+      },
+      "lastUpdate" : "20141025T150556Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6514451525, 49.8708730029 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T163841+0200",
+      "endTime" : "20141025T165420+0200",
+      "place" : {
+        "id" : 258516168,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8708730029,
+          "lon" : 8.6514451525
+        }
+      },
+      "lastUpdate" : "20141025T163952Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6547900049, 49.8711907548 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T165900+0200",
+      "endTime" : "20141025T175204+0200",
+      "place" : {
+        "id" : 271950654,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8711907548,
+          "lon" : 8.6547900049
+        }
+      },
+      "lastUpdate" : "20141025T163952Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6527506996, 49.8731672846 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T180254+0200",
+      "endTime" : "20141025T182010+0200",
+      "place" : {
+        "id" : 271950656,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8731672846,
+          "lon" : 8.6527506996
+        }
+      },
+      "lastUpdate" : "20141025T194539Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6612120618, 49.877971499 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T183419+0200",
+      "endTime" : "20141025T185041+0200",
+      "place" : {
+        "id" : 260869939,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.877971499,
+          "lon" : 8.6612120618
+        }
+      },
+      "lastUpdate" : "20141025T194539Z",
+      "date" : "20141025"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6675185755, 49.8826210232 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20141025T190213+0200",
+      "endTime" : "20141026T185752+0100",
+      "place" : {
+        "id" : 223135125,
+        "name" : "Volleyball field of Karlshof",
+        "type" : "user",
+        "location" : {
+          "lat" : 49.8826210232,
+          "lon" : 8.6675185755
+        }
+      },
+      "lastUpdate" : "20141026T193908Z",
+      "date" : "20141025"
+    }
+  } ]
+}

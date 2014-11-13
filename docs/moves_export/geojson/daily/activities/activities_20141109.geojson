@@ -1,0 +1,27 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6697840805, 49.8831093675 ], [ 8.6692453002, 49.8829215709 ], [ 8.6695633746, 49.8828813363 ], [ 8.6697954731, 49.8827787943 ], [ 8.6701182662, 49.8826085776 ], [ 8.6702548479, 49.8825047833 ], [ 8.6702760877, 49.8823697819 ], [ 8.6702592175, 49.8819996044 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20141109T234543+0100",
+      "endTime" : "20141109T234843+0100",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20141109T234543+0100",
+        "endTime" : "20141109T234842+0100",
+        "duration" : 179.0,
+        "distance" : 199.0,
+        "steps" : 240
+      } ],
+      "lastUpdate" : "20141110T005035Z",
+      "date" : "20141109"
+    }
+  } ]
+}

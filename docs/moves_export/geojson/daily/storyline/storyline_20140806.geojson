@@ -1,0 +1,370 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6682008619, 49.8829100725 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140805T224003+0200",
+      "endTime" : "20140806T002857+0200",
+      "place" : {
+        "id" : 223509887,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8829100725,
+          "lon" : 8.6682008619
+        }
+      },
+      "lastUpdate" : "20140806T000925Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6682008619, 49.8829100725 ], [ 8.6684390467, 49.8828196893 ], [ 8.6684185413, 49.8828317061 ], [ 8.6683836993, 49.8828495794 ], [ 8.6685077588, 49.8828157928 ], [ 8.6686895737, 49.8827542605 ], [ 8.6698790821, 49.882293584 ], [ 8.6700463143, 49.8822152745 ], [ 8.6703339401, 49.8819681239 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140806T002857+0200",
+      "endTime" : "20140806T003234+0200",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T002857+0200",
+        "endTime" : "20140806T003234+0200",
+        "duration" : 217.0,
+        "distance" : 216.0,
+        "steps" : 412
+      } ],
+      "lastUpdate" : "20140806T000925Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6703339401, 49.8819681239 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140806T003234+0200",
+      "endTime" : "20140806T084407+0200",
+      "place" : {
+        "id" : 222568631,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8819681239,
+          "lon" : 8.6703339401
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T003234+0200",
+        "endTime" : "20140806T003324+0200",
+        "duration" : 50.0,
+        "distance" : 41.0,
+        "steps" : 82
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T080049+0200",
+        "endTime" : "20140806T080208+0200",
+        "duration" : 79.0,
+        "distance" : 48.0,
+        "steps" : 97
+      } ],
+      "lastUpdate" : "20140806T105152Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6703339401, 49.8819681239 ], [ 8.6703768841, 49.88212169 ], [ 8.67034446, 49.8821287544 ], [ 8.6703169017, 49.8821346974 ], [ 8.6702910951, 49.8821412259 ], [ 8.6695988055, 49.8823415395 ], [ 8.6690995065, 49.8824834472 ], [ 8.6688790663, 49.8825520992 ], [ 8.6687576429, 49.8825937124 ], [ 8.6686800886, 49.8826182003 ], [ 8.6685956518, 49.8826279727 ], [ 8.6684093501, 49.8826147153 ], [ 8.6680318429, 49.8825696876 ] ], [ [ 8.6680318429, 49.8825696876 ], [ 8.665897692, 49.8822584723 ], [ 8.665897518, 49.8822591348 ], [ 8.6631602296, 49.8790953705 ], [ 8.662237488, 49.8784714464 ], [ 8.6614084943, 49.8781202588 ], [ 8.6615652517, 49.8767003922 ], [ 8.661596041, 49.8764556818 ], [ 8.6612483635, 49.8761446598 ], [ 8.6605216473, 49.8757634205 ], [ 8.660458376, 49.875719319 ], [ 8.6576013396, 49.8747895216 ], [ 8.6562215243, 49.8745130688 ], [ 8.6558116888, 49.873762821 ], [ 8.655811604, 49.8737626658 ], [ 8.6553580643, 49.872932413 ], [ 8.6552752955, 49.8728741156 ], [ 8.6552037707, 49.8728530883 ], [ 8.655205525, 49.8728525837 ], [ 8.6416476655, 49.8714345767 ], [ 8.6313543331, 49.872083681 ] ], [ [ 8.6313543331, 49.872083681 ], [ 8.6309720756, 49.8721257774 ], [ 8.6308816444, 49.8723409447 ], [ 8.6271330302, 49.8721907955 ], [ 8.6269918539, 49.8720850017 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140806T084407+0200",
+      "endTime" : "20140806T091256+0200",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T084407+0200",
+        "endTime" : "20140806T084918+0200",
+        "duration" : 311.0,
+        "distance" : 292.0,
+        "steps" : 584
+      }, {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140806T084917+0200",
+        "endTime" : "20140806T090811+0200",
+        "duration" : 1134.0,
+        "distance" : 3703.0
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T090811+0200",
+        "endTime" : "20140806T091256+0200",
+        "duration" : 285.0,
+        "distance" : 382.0,
+        "steps" : 552
+      } ],
+      "lastUpdate" : "20140806T105152Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6269837242, 49.872084589 ], [ 8.6269918539, 49.8720850017 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140806T091256+0200",
+      "endTime" : "20140806T091555+0200",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T091256+0200",
+        "endTime" : "20140806T091556+0200",
+        "duration" : 180.0,
+        "distance" : 168.0,
+        "steps" : 336
+      } ],
+      "lastUpdate" : "20140806T114837Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6269918539, 49.8720850017 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140806T091556+0200",
+      "endTime" : "20140806T131856+0200",
+      "place" : {
+        "id" : 240312779,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8720850017,
+          "lon" : 8.6269918539
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T091556+0200",
+        "endTime" : "20140806T091557+0200",
+        "duration" : 1.0,
+        "distance" : 1.0,
+        "steps" : 1
+      } ],
+      "lastUpdate" : "20140806T114837Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6269918539, 49.8720850017 ], [ 8.6267100944, 49.8720774897 ], [ 8.6304093236, 49.8725914793 ], [ 8.63179079, 49.8719356507 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140806T131856+0200",
+      "endTime" : "20140806T132711+0200",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T131856+0200",
+        "endTime" : "20140806T132712+0200",
+        "duration" : 496.0,
+        "distance" : 477.0,
+        "steps" : 891
+      } ],
+      "lastUpdate" : "20140806T114837Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.63179079, 49.8719356507 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140806T132712+0200",
+      "endTime" : "20140806T134018+0200",
+      "place" : {
+        "id" : 240361548,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8719356507,
+          "lon" : 8.63179079
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T132715+0200",
+        "endTime" : "20140806T132804+0200",
+        "duration" : 49.0,
+        "distance" : 33.0,
+        "steps" : 66
+      } ],
+      "lastUpdate" : "20140806T164648Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.63179079, 49.8719356507 ], [ 8.6330822919, 49.8703028404 ], [ 8.65073627, 49.8725896283 ], [ 8.6526291351, 49.8730768448 ], [ 8.6535179693, 49.8731195893 ], [ 8.6547912965, 49.8728714085 ], [ 8.6551505035, 49.8728775681 ], [ 8.6554194939, 49.8729433068 ], [ 8.655497632, 49.8729664194 ], [ 8.6606146394, 49.8757784928 ], [ 8.6604474431, 49.875702734 ], [ 8.6590289339, 49.875248333 ], [ 8.6589007875, 49.8752310176 ], [ 8.665417811, 49.8811433999 ], [ 8.6655950796, 49.8817018528 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140806T134018+0200",
+      "endTime" : "20140806T135752+0200",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20140806T134018+0200",
+        "endTime" : "20140806T135752+0200",
+        "duration" : 1054.0,
+        "distance" : 3799.0
+      } ],
+      "lastUpdate" : "20140806T164648Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6655950796, 49.8817018528 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140806T135752+0200",
+      "endTime" : "20140806T135802+0200",
+      "place" : {
+        "id" : 240477117,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8817018528,
+          "lon" : 8.6655950796
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T135752+0200",
+        "endTime" : "20140806T135802+0200",
+        "duration" : 10.0,
+        "distance" : 12.0,
+        "steps" : 24
+      } ],
+      "lastUpdate" : "20140806T164648Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ [ 8.6655950796, 49.8817018528 ], [ 8.6655943824, 49.8817706632 ], [ 8.6656010485, 49.8817831819 ], [ 8.6656152644, 49.8817917366 ], [ 8.6656598356, 49.8818080276 ], [ 8.665835714, 49.8818662561 ], [ 8.6658357804, 49.8818662781 ], [ 8.6671470241, 49.8823003949 ], [ 8.6672417103, 49.8825239736 ], [ 8.6673903238, 49.8824325159 ], [ 8.6678647946, 49.8825519516 ], [ 8.6681974023, 49.8826092955 ], [ 8.6683935133, 49.8826107435 ], [ 8.668551918, 49.8825861011 ], [ 8.6688461506, 49.8825192524 ], [ 8.6696307982, 49.8823297392 ], [ 8.6700206978, 49.8822249664 ], [ 8.6701383401, 49.8821689471 ], [ 8.6703339401, 49.8819681239 ] ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20140806T135802+0200",
+      "endTime" : "20140806T141102+0200",
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T135802+0200",
+        "endTime" : "20140806T141103+0200",
+        "duration" : 781.0,
+        "distance" : 585.0,
+        "steps" : 1171
+      } ],
+      "lastUpdate" : "20140806T164648Z",
+      "date" : "20140806"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6703339401, 49.8819681239 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20140806T141102+0200",
+      "endTime" : "20140807T083236+0200",
+      "place" : {
+        "id" : 222568631,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 49.8819681239,
+          "lon" : 8.6703339401
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T155742+0200",
+        "endTime" : "20140806T155800+0200",
+        "duration" : 18.0,
+        "distance" : 12.0,
+        "steps" : 23
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T205628+0200",
+        "endTime" : "20140806T205658+0200",
+        "duration" : 30.0,
+        "distance" : 15.0,
+        "steps" : 15
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T223954+0200",
+        "endTime" : "20140806T224304+0200",
+        "duration" : 190.0,
+        "distance" : 219.0,
+        "steps" : 292
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20140806T230044+0200",
+        "endTime" : "20140806T230253+0200",
+        "duration" : 129.0,
+        "distance" : 118.0,
+        "steps" : 157
+      } ],
+      "lastUpdate" : "20140807T071855Z",
+      "date" : "20140806"
+    }
+  } ]
+}

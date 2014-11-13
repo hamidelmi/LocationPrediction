@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:57.468Z</time>
+  </metadata>
+  <wpt lon="8.6703339401" lat="49.8819681239">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.657750091" lat="49.8770449952">
+    <name>Place in Maschinenhaus</name>
+  </wpt>
+  <wpt lon="8.6604081896" lat="49.8734474315">
+    <name>Place in TU Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6576909746" lat="49.8776388647">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <wpt lon="8.6682008619" lat="49.8829100725">
+    <name>Place in Darmstadt</name>
+  </wpt>
+  <trk>
+    <name>7/31/14</name>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T09:04:05.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T09:04:05.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6699599021" lat="49.8821520414">
+        <time>2014-07-31T09:04:45.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6697184604" lat="49.882306205">
+        <time>2014-07-31T09:05:01.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6667004414" lat="49.8823294003">
+        <time>2014-07-31T09:08:01.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6667004414" lat="49.8823294003">
+        <time>2014-07-31T09:08:01.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.665924443" lat="49.8823344778">
+        <time>2014-07-31T09:08:26.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6659318955" lat="49.8823376518">
+        <time>2014-07-31T09:08:51.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6639665105" lat="49.8800623686">
+        <time>2014-07-31T09:11:48.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6600417676" lat="49.8782019295">
+        <time>2014-07-31T09:13:06.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6600417676" lat="49.8782019295">
+        <time>2014-07-31T09:13:06.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6589539744" lat="49.8776409817">
+        <time>2014-07-31T09:15:30.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6588058368" lat="49.8776623043">
+        <time>2014-07-31T09:15:51.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6584122419" lat="49.8776455325">
+        <time>2014-07-31T09:16:11.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6582054386" lat="49.8776355853">
+        <time>2014-07-31T09:16:31.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6580879048" lat="49.8776274192">
+        <time>2014-07-31T09:16:51.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6579825948" lat="49.8776152436">
+        <time>2014-07-31T09:17:12.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6578645474" lat="49.8775977429">
+        <time>2014-07-31T09:17:32.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6576097127" lat="49.8775555783">
+        <time>2014-07-31T09:17:55.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6568657824" lat="49.8774295258">
+        <time>2014-07-31T09:18:16.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6565174488" lat="49.8773724948">
+        <time>2014-07-31T09:18:33.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6561248648" lat="49.8773577208">
+        <time>2014-07-31T09:19:04.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.65516322" lat="49.8774461782">
+        <time>2014-07-31T09:19:32.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6549213331" lat="49.8774587825">
+        <time>2014-07-31T09:19:57.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6548757972" lat="49.8774512059">
+        <time>2014-07-31T09:20:14.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6548553432" lat="49.8774436141">
+        <time>2014-07-31T09:20:34.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6548269467" lat="49.8774456714">
+        <time>2014-07-31T09:20:59.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6548149875" lat="49.8774429428">
+        <time>2014-07-31T09:21:19.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6548066372" lat="49.8774153191">
+        <time>2014-07-31T09:21:43.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6548021373" lat="49.8773886736">
+        <time>2014-07-31T09:22:01.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T09:22:32.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T09:22:32.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T10:47:57.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T10:47:57.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6568594265" lat="49.8760703692">
+        <time>2014-07-31T10:49:11.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6604081896" lat="49.8734474315">
+        <time>2014-07-31T10:50:41.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6604081896" lat="49.8734474315">
+        <time>2014-07-31T10:50:41.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6604081896" lat="49.8734474315">
+        <time>2014-07-31T11:05:34.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6604081896" lat="49.8734474315">
+        <time>2014-07-31T11:05:34.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6604059559" lat="49.8745729744">
+        <time>2014-07-31T11:05:57.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6604532488" lat="49.8745720962">
+        <time>2014-07-31T11:06:12.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6604467927" lat="49.8745690256">
+        <time>2014-07-31T11:06:34.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6604393405" lat="49.8745677803">
+        <time>2014-07-31T11:06:49.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6604282787" lat="49.8745669433">
+        <time>2014-07-31T11:07:09.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6604152351" lat="49.8745656036">
+        <time>2014-07-31T11:07:34.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6604066253" lat="49.8745648022">
+        <time>2014-07-31T11:07:51.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6603948505" lat="49.8745646352">
+        <time>2014-07-31T11:08:09.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.660382635" lat="49.8745654064">
+        <time>2014-07-31T11:08:26.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6603670334" lat="49.8745686405">
+        <time>2014-07-31T11:08:45.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6603557964" lat="49.874571464">
+        <time>2014-07-31T11:09:00.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6603550059" lat="49.874571566">
+        <time>2014-07-31T11:09:16.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.658627121" lat="49.8750206544">
+        <time>2014-07-31T11:10:54.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6584582261" lat="49.8751088422">
+        <time>2014-07-31T11:11:09.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6582364123" lat="49.8755251138">
+        <time>2014-07-31T11:11:50.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.657243501" lat="49.8759907637">
+        <time>2014-07-31T11:12:34.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.657046946" lat="49.8760155079">
+        <time>2014-07-31T11:12:52.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6562688136" lat="49.8763157619">
+        <time>2014-07-31T11:13:25.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6556715803" lat="49.8766332083">
+        <time>2014-07-31T11:13:49.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6553658951" lat="49.8767976283">
+        <time>2014-07-31T11:14:10.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6552393491" lat="49.876874769">
+        <time>2014-07-31T11:14:31.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6552133647" lat="49.8769129952">
+        <time>2014-07-31T11:14:52.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6551694779" lat="49.8769521869">
+        <time>2014-07-31T11:15:13.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6550727542" lat="49.8770195027">
+        <time>2014-07-31T11:15:32.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6549968379" lat="49.8770710169">
+        <time>2014-07-31T11:15:55.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.654956085" lat="49.8770960326">
+        <time>2014-07-31T11:16:25.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6549325688" lat="49.8771134762">
+        <time>2014-07-31T11:16:56.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T11:17:16.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T11:17:16.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T12:38:13.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T12:38:13.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.655008755" lat="49.8773022192">
+        <time>2014-07-31T12:38:39.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6550336477" lat="49.8772921073">
+        <time>2014-07-31T12:38:57.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6550871754" lat="49.8772729505">
+        <time>2014-07-31T12:39:13.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6551170287" lat="49.8772584666">
+        <time>2014-07-31T12:39:28.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6567913359" lat="49.8759074179">
+        <time>2014-07-31T12:41:19.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6571331025" lat="49.8759022752">
+        <time>2014-07-31T12:41:43.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6575814498" lat="49.8756427216">
+        <time>2014-07-31T12:43:09.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6576449023" lat="49.8756052976">
+        <time>2014-07-31T12:43:29.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6576617792" lat="49.8755937689">
+        <time>2014-07-31T12:43:49.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6576485873" lat="49.8755958541">
+        <time>2014-07-31T12:44:10.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6576247765" lat="49.8756021075">
+        <time>2014-07-31T12:44:26.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6575567377" lat="49.8756235723">
+        <time>2014-07-31T12:44:49.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6575207135" lat="49.8756348192">
+        <time>2014-07-31T12:45:05.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6575083923" lat="49.8756391802">
+        <time>2014-07-31T12:45:25.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6575232291" lat="49.8756369542">
+        <time>2014-07-31T12:45:50.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T12:46:10.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T12:46:10.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T13:24:33.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T13:24:33.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6573502749" lat="49.8758002693">
+        <time>2014-07-31T13:24:53.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6573308708" lat="49.8758074589">
+        <time>2014-07-31T13:25:14.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6573121675" lat="49.8758138854">
+        <time>2014-07-31T13:25:29.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6572797452" lat="49.8758242607">
+        <time>2014-07-31T13:25:49.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6572235843" lat="49.8758426202">
+        <time>2014-07-31T13:26:16.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6571865957" lat="49.875852967">
+        <time>2014-07-31T13:26:38.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6564134394" lat="49.8761964552">
+        <time>2014-07-31T13:27:10.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6557222641" lat="49.876726713">
+        <time>2014-07-31T13:27:37.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6554362801" lat="49.8769565598">
+        <time>2014-07-31T13:28:00.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6553187757" lat="49.8770891399">
+        <time>2014-07-31T13:28:20.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T13:28:48.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T13:28:48.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T13:58:17.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.657750091" lat="49.8770449952">
+        <time>2014-07-31T13:58:17.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6553310426" lat="49.8773421738">
+        <time>2014-07-31T13:58:35.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6553718498" lat="49.8773328038">
+        <time>2014-07-31T13:58:51.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6554139607" lat="49.877321199">
+        <time>2014-07-31T13:59:09.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6555176449" lat="49.8773220241">
+        <time>2014-07-31T13:59:25.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.655670813" lat="49.8773314044">
+        <time>2014-07-31T13:59:44.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6558625405" lat="49.8773426995">
+        <time>2014-07-31T13:59:59.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6558626659" lat="49.8773427068">
+        <time>2014-07-31T14:00:00.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6559056845" lat="49.8773452412">
+        <time>2014-07-31T14:00:03.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6565208915" lat="49.8773720539">
+        <time>2014-07-31T14:00:33.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6566368045" lat="49.8773744053">
+        <time>2014-07-31T14:00:54.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6566730626" lat="49.8773804508">
+        <time>2014-07-31T14:01:14.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6567068809" lat="49.8773886641">
+        <time>2014-07-31T14:01:38.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6573497962" lat="49.8775519138">
+        <time>2014-07-31T14:03:44.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6576909746" lat="49.8776388647">
+        <time>2014-07-31T14:04:43.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6576909746" lat="49.8776388647">
+        <time>2014-07-31T14:04:44.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6576909746" lat="49.8776388647">
+        <time>2014-07-31T14:11:44.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6576909746" lat="49.8776388647">
+        <time>2014-07-31T14:11:44.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6627618972" lat="49.8789342704">
+        <time>2014-07-31T14:16:18.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6631145987" lat="49.8790379943">
+        <time>2014-07-31T14:16:38.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6656104658" lat="49.8811763589">
+        <time>2014-07-31T14:20:07.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6656221733" lat="49.8812455608">
+        <time>2014-07-31T14:20:39.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.665624876" lat="49.8812501021">
+        <time>2014-07-31T14:20:59.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6656276608" lat="49.8812523246">
+        <time>2014-07-31T14:21:30.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6656301229" lat="49.8812538941">
+        <time>2014-07-31T14:21:50.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6656339083" lat="49.8812562672">
+        <time>2014-07-31T14:22:23.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6656340417" lat="49.8812563517">
+        <time>2014-07-31T14:22:43.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6656306822" lat="49.8812542526">
+        <time>2014-07-31T14:23:01.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6656352732" lat="49.8812571033">
+        <time>2014-07-31T14:23:19.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.665681777" lat="49.8812860253">
+        <time>2014-07-31T14:23:39.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6660259982" lat="49.8815001644">
+        <time>2014-07-31T14:23:59.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6676774576" lat="49.8825122617">
+        <time>2014-07-31T14:24:29.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6682041239" lat="49.8827588501">
+        <time>2014-07-31T14:24:49.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6699344593" lat="49.8822135836">
+        <time>2014-07-31T14:26:00.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701150539" lat="49.8821157163">
+        <time>2014-07-31T14:26:19.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T14:26:39.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T14:26:39.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T18:44:18.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T18:44:18.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.670674392" lat="49.8821202485">
+        <time>2014-07-31T18:44:34.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6706936002" lat="49.8821285236">
+        <time>2014-07-31T18:44:51.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6707038437" lat="49.8821345194">
+        <time>2014-07-31T18:45:11.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.670706233" lat="49.8821393717">
+        <time>2014-07-31T18:45:32.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6707033653" lat="49.8821430352">
+        <time>2014-07-31T18:45:49.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6706909542" lat="49.8821483984">
+        <time>2014-07-31T18:46:10.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6706707593" lat="49.8821547858">
+        <time>2014-07-31T18:46:31.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6705974985" lat="49.8821723247">
+        <time>2014-07-31T18:46:51.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6690755584" lat="49.8825029749">
+        <time>2014-07-31T18:47:38.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-07-31T18:47:58.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-07-31T18:47:58.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-07-31T19:28:45.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-07-31T19:28:45.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6682623451" lat="49.8826129203">
+        <time>2014-07-31T19:29:02.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.668349219" lat="49.8825577561">
+        <time>2014-07-31T19:29:25.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6695705534" lat="49.8822441675">
+        <time>2014-07-31T19:29:55.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.670019602" lat="49.8821368421">
+        <time>2014-07-31T19:30:15.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701427586" lat="49.8821171198">
+        <time>2014-07-31T19:30:35.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701720983" lat="49.8821127754">
+        <time>2014-07-31T19:30:59.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T19:31:25.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T19:31:25.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T21:45:21.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T21:45:21.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701978262" lat="49.8820145254">
+        <time>2014-07-31T21:46:21.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702315914" lat="49.8819991144">
+        <time>2014-07-31T21:46:45.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702256378" lat="49.8819990826">
+        <time>2014-07-31T21:47:05.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.670217875" lat="49.882004014">
+        <time>2014-07-31T21:47:26.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6702056354" lat="49.8820107585">
+        <time>2014-07-31T21:47:47.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701894681" lat="49.8820184582">
+        <time>2014-07-31T21:48:03.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6701892491" lat="49.8820190676">
+        <time>2014-07-31T21:48:22.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6692782845" lat="49.8824057754">
+        <time>2014-07-31T21:49:24.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6688378222" lat="49.8826031315">
+        <time>2014-07-31T21:49:55.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6686543967" lat="49.882704247">
+        <time>2014-07-31T21:50:10.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-07-31T21:50:32.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-07-31T21:50:32.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-07-31T22:51:44.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6682008619" lat="49.8829100725">
+        <time>2014-07-31T22:51:44.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683540654" lat="49.8828812607">
+        <time>2014-07-31T22:52:04.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683548393" lat="49.8828813236">
+        <time>2014-07-31T22:52:28.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683633779" lat="49.8828788832">
+        <time>2014-07-31T22:52:44.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683733959" lat="49.8828758911">
+        <time>2014-07-31T22:52:59.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6683937421" lat="49.8828696385">
+        <time>2014-07-31T22:53:24.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.668410592" lat="49.8828643427">
+        <time>2014-07-31T22:53:39.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.668415278" lat="49.8828634637">
+        <time>2014-07-31T22:53:59.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6694873677" lat="49.8824943465">
+        <time>2014-07-31T22:54:50.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6698031316" lat="49.8823796218">
+        <time>2014-07-31T22:55:10.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6699705825" lat="49.8822964253">
+        <time>2014-07-31T22:55:30.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T22:55:53.000+02:00</time>
+        <type>walking</type>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-07-31T22:55:53.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+      <trkpt lon="8.6703339401" lat="49.8819681239">
+        <time>2014-08-01T00:00:00.000+02:00</time>
+        <type>place</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

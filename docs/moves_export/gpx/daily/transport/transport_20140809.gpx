@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx 
+creator="Moves" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tns="http://www.topografix.com/GPX/1/1" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <desc>Moves Storyline</desc>
+    <link href="http://www.moves-app.com"/>
+    <time>2014-11-10T16:26:58.916Z</time>
+  </metadata>
+  <trk>
+    <name>8/9/14</name>
+    <trkseg>
+      <trkpt lon="8.6598089166" lat="49.8757468098">
+        <time>2014-08-09T15:37:57.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6600828667" lat="49.8757577776">
+        <time>2014-08-09T15:38:14.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6603004742" lat="49.8757983554">
+        <time>2014-08-09T15:38:31.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6603004742" lat="49.8757983554">
+        <time>2014-08-09T15:38:51.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6603004742" lat="49.8757983554">
+        <time>2014-08-09T15:39:08.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6603033049" lat="49.8757990846">
+        <time>2014-08-09T15:40:18.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6603033131" lat="49.8757990872">
+        <time>2014-08-09T15:40:37.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6603032612" lat="49.8757990301">
+        <time>2014-08-09T15:40:59.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6603009066" lat="49.8757973398">
+        <time>2014-08-09T15:41:34.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6602966092" lat="49.8757937595">
+        <time>2014-08-09T15:41:51.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6602943128" lat="49.8757917057">
+        <time>2014-08-09T15:42:11.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6602932761" lat="49.8757907552">
+        <time>2014-08-09T15:42:34.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+      <trkpt lon="8.6686993041" lat="49.8796522158">
+        <time>2014-08-09T15:45:12.000+02:00</time>
+        <type>transport</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
