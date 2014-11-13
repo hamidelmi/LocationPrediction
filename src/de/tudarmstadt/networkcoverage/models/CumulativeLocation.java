@@ -51,7 +51,7 @@ public class CumulativeLocation {
 					formatter.format(this.start), formatter.format(this.end),
 					this.x, this.y);
 		} else
-			return String.format("(%6.3f,%6.3f)", this.x, this.y);
+			return String.format("%6.3f,%6.3f", this.x, this.y);
 	}
 
 	@Override

@@ -106,4 +106,38 @@ public class MarkovModel {
 
 		return sb.toString();
 	}
+
+	public String printForGoogleMap() {
+
+		StringBuilder sb = new StringBuilder();
+		try {
+			Iterator<Entry<CumulativeLocation, HashMap<CumulativeLocation, Integer>>> points = this.model
+					.entrySet().iterator();
+			int i = 0;
+			while (points.hasNext()) {
+				Entry<CumulativeLocation, HashMap<CumulativeLocation, Integer>> point = points
+						.next();
+				Iterator<Entry<CumulativeLocation, Integer>> nextPoints = point
+						.getValue().entrySet().iterator();
+				while (nextPoints.hasNext()) {
+					Entry<CumulativeLocation, Integer> nextPoint = nextPoints
+							.next();
+					sb.append(String
+							.format("new google.maps.Polyline({path : [ new google.maps.LatLng(%s),new google.maps.LatLng(%s) ],strokeColor : Colors[%d],strokeOpacity:1.0,strokeWeight:3,map:map});",
+									point.getKey().toString(false), nextPoint
+											.getKey().toString(false), i % 8));
+					// sb.append("var path = poly.getPath();path.push(new google.maps.LatLng(");
+					// // sb.append(nextPoint.getValue());
+					// sb.append(point.getKey().toString(false));
+					// sb.append("));path.push(new google.maps.LatLng(");
+					// sb.append(nextPoint.getKey().toString(false));
+					// sb.append("));");
+				}
+				i++;
+			}
+		} catch (Exception ex) {
+			Log.e("MarkovModel", ex.getMessage());
+		}
+		return sb.toString();
+	}
 }
