@@ -36,15 +36,22 @@ public class CumulativeLocation {
 		return this.end;
 	}
 
-	@SuppressLint({ "DefaultLocale", "SimpleDateFormat" })
 	@Override
 	public String toString() {
-		SimpleDateFormat formatter = new SimpleDateFormat(
-				"yyyy-MM-dd'T'hh:mm:ss");
+		return toString(true);
+	}
 
-		return String.format("[%s-%s](%6.3f,%6.3f)",
-				formatter.format(this.start), formatter.format(this.end),
-				this.x, this.y);
+	@SuppressLint({ "DefaultLocale", "SimpleDateFormat" })
+	public String toString(boolean dates) {
+		if (dates) {
+			SimpleDateFormat formatter = new SimpleDateFormat(
+					"yyyy-MM-dd'T'hh:mm:ss");
+
+			return String.format("[%s-%s](%6.3f,%6.3f)",
+					formatter.format(this.start), formatter.format(this.end),
+					this.x, this.y);
+		} else
+			return String.format("(%6.3f,%6.3f)", this.x, this.y);
 	}
 
 	@Override

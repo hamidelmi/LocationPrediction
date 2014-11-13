@@ -4,7 +4,9 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 
+import android.util.Log;
 import de.tudarmstadt.networkcoverage.models.CumulativeLocation;
 import de.tudarmstadt.networkcoverage.models.Path;
 
@@ -17,22 +19,23 @@ public class MarkovModel {
 		model = new HashMap<CumulativeLocation, HashMap<CumulativeLocation, Integer>>();
 	}
 
-	public Double nextStepQuality(CumulativeLocation currentPoint) {
-		HashMap<CumulativeLocation, Integer> nextPoints = model
-				.get(currentPoint);
-		Iterator it = nextPoints.entrySet().iterator();
-		int counter = 0;
-		double sum = 0;
-		while (it.hasNext()) {
-			Map.Entry pairs = (Map.Entry) it.next();
-			CumulativeLocation point = (CumulativeLocation) pairs.getKey();
-			double probability = (Double) pairs.getValue();
-
-			sum += probability * point.getQuality();
-			counter++;
-		}
-		return sum / counter;
-	}
+	// public Double nextStepQuality(CumulativeLocation currentPoint) {
+	// HashMap<CumulativeLocation, Integer> nextPoints = model
+	// .get(currentPoint);
+	// Iterator<Entry<CumulativeLocation, Integer>> it = nextPoints.entrySet()
+	// .iterator();
+	// int counter = 0;
+	// double sum = 0;
+	// while (it.hasNext()) {
+	// Entry<CumulativeLocation, Integer> pairs = it.next();
+	// CumulativeLocation point = (CumulativeLocation) pairs.getKey();
+	// double probability = (Double) pairs.getValue();
+	//
+	// sum += probability * point.getQuality();
+	// counter++;
+	// }
+	// return sum / counter;
+	// }
 
 	public boolean addPoint(CumulativeLocation point) {
 		return addPoint(point, new HashMap<CumulativeLocation, Integer>());
@@ -76,5 +79,31 @@ public class MarkovModel {
 				for (int i = 1; i < points.size(); i++)
 					addPoint(points.get(i - 1), points.get(i));
 		}
+	}
+
+	public String print() {
+		StringBuilder sb = new StringBuilder();
+		Iterator<Entry<CumulativeLocation, HashMap<CumulativeLocation, Integer>>> points = this.model
+				.entrySet().iterator();
+
+		while (points.hasNext()) {
+			Entry<CumulativeLocation, HashMap<CumulativeLocation, Integer>> point = points
+					.next();
+			sb.append(point.getKey().toString(false));
+			sb.append(":[");
+			Iterator<Entry<CumulativeLocation, Integer>> nextPoints = point
+					.getValue().entrySet().iterator();
+			while (nextPoints.hasNext()) {
+				Entry<CumulativeLocation, Integer> nextPoint = nextPoints
+						.next();
+				sb.append(nextPoint.getKey().toString(false));
+				sb.append(":");
+				sb.append(nextPoint.getValue());
+				sb.append(",");
+			}
+			sb.append("]\r\n");
+		}
+
+		return sb.toString();
 	}
 }

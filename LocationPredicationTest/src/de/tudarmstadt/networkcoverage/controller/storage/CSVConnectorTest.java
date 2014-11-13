@@ -30,14 +30,16 @@ public class CSVConnectorTest extends AndroidTestCase {
 				"UTF-8"));
 
 		if (in != null) {
-			List<CumulativeLocation> points = mCSVConnector.read(br, 10);
+			List<CumulativeLocation> points = mCSVConnector.read(br, 1000);
 
 			List<Path> paths = Path.extractPaths(points);
 
 			MarkovModel mm = new MarkovModel();
 			mm.loadPaths(paths);
 
-			Log.d("", "!23");
+			String qq = mm.print();
+
+			Log.d("", qq);
 		}
 	}
 
