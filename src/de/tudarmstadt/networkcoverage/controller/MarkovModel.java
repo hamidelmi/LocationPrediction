@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import de.tudarmstadt.networkcoverage.models.CumulativeLocation;
+import de.tudarmstadt.networkcoverage.models.Path;
 
 public class MarkovModel {
 
@@ -49,7 +50,7 @@ public class MarkovModel {
 		}
 	}
 
-	public void loadPoints(List<CumulativeLocation> point) {
+	public void loadPoints(List<Path> paths) {
 
 	}
 
