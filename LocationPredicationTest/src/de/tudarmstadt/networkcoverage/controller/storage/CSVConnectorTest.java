@@ -6,6 +6,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.List;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
@@ -22,34 +24,32 @@ public class CSVConnectorTest extends AndroidTestCase {
 	protected void setUp() throws Exception {
 		super.setUp();
 		mCSVConnector = new CSVConnector();
-
-		String fileName = "assets/all.csv";
-		InputStream in = this.getClass().getClassLoader()
-				.getResourceAsStream(fileName);
-		BufferedReader br = new BufferedReader(new InputStreamReader(in,
-				"UTF-8"));
-
-		if (in != null) {
-			List<CumulativeLocation> points = mCSVConnector.read(br, 1000);
-
-			List<Path> paths = Path.extractPaths(points);
-
-			MarkovModel mm = new MarkovModel();
-			mm.loadPaths(paths);
-
-			String qq = mm.print();
-
-			Log.d("", qq);
-		}
 	}
 
 	@Test
-	public void readTest() {
-		String fileName = "data/all.csv";
+	public void testRead() {
+		try {
+			String fileName = "assets/all.csv";
+			InputStream in = this.getClass().getClassLoader()
+					.getResourceAsStream(fileName);
+			BufferedReader br = new BufferedReader(new InputStreamReader(in,
+					"UTF-8"));
 
-		// mCSVConnector.read(fileName);
+			if (in != null) {
+				List<CumulativeLocation> points = mCSVConnector.read(br, 1000);
 
-		assertFalse("message", false);
+				List<Path> paths = Path.extractPaths(points);
 
+				MarkovModel mm = new MarkovModel();
+				mm.loadPaths(paths);
+
+				String qq = mm.print();
+				String qq2 = mm.printForGoogleMap();
+
+				Log.d("", qq);
+			}
+		} catch (Exception ex) {
+
+		}
 	}
 }
