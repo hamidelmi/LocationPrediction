@@ -9,6 +9,7 @@ import java.util.List;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import de.tudarmstadt.networkcoverage.controller.MarkovModel;
 import de.tudarmstadt.networkcoverage.models.CumulativeLocation;
 import de.tudarmstadt.networkcoverage.models.Path;
 import android.test.AndroidTestCase;
@@ -32,6 +33,10 @@ public class CSVConnectorTest extends AndroidTestCase {
 			List<CumulativeLocation> points = mCSVConnector.read(br, 10);
 
 			List<Path> paths = Path.extractPaths(points);
+
+			MarkovModel mm = new MarkovModel();
+			mm.loadPaths(paths);
+
 			Log.d("", "!23");
 		}
 	}

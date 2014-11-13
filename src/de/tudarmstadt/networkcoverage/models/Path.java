@@ -37,6 +37,10 @@ public class Path {
 		return result;
 	}
 
+	public List<CumulativeLocation> getPoints() {
+		return this.points;
+	}
+
 	@Override
 	public String toString() {
 		if (points == null || points.size() == 0)
